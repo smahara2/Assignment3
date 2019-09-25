@@ -13,13 +13,19 @@ All three students are Junior DMS Majors at the University of Rochester.
 
 **Kate Fuss** :
 
-- Kate has an early life
+- Kate has an early life and journey to college
+- Kate has a journey to DMS
+- Kate has a  college life
 
 **Maria Mancheno** :
 
-- Maria has an early life
+- Maria has an early life and journey to college
+- Maria has a journey to DMS 
+- Maria has a  college life
 
 **Jennifer Ngene** :
 
-- Jennifer has an early life
+- Jennifer has an early life and journey to college
+- Jennifer has a journey to DMS
+- Jennifer has a  college life
 
