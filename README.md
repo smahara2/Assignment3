@@ -11,5 +11,15 @@ All three students are Junior DMS Majors at the University of Rochester.
 
 ## 								Ontology     
 
+**Kate Fuss** :
 
+- Kate has an early life
+
+**Maria Mancheno** :
+
+- Maria has an early life
+
+**Jennifer Ngene** :
+
+- Jennifer has an early life
 
