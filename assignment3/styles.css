@@ -1,0 +1,166 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  width: 95%;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto 
+
+}
+
+/*Speech Bubble for Containers*/
+
+p{
+  padding: 15px;
+}
+
+h2{
+  padding-top: 30px;
+  text-align: center;
+}
+
+.speech-bubble {
+  position: relative;
+  background: #00A1E4;
+  border-radius: .9em;
+
+}
+
+.speech-bubble:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border: 31px solid transparent;
+  border-top-color: #00A1E4;
+  border-bottom: 0;
+  border-left: 0;
+  margin-left: -450.5px;
+  margin-bottom: -31px;
+}
+
+body {
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  font-family: 'Cabin Sketch', cursive;
+}
+
+/* Style the header */
+.header {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+nav {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+/* Container for flexboxes */
+.row {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+/*  max-height: 
+*/}
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+.cd-section {
+  width: 75%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  border-radius: 8px;
+}
+
+img {
+  height: 175px;
+  width: 175px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+aside {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.center {
+ 
+}
+
+h1{
+  text-align: center;
+  padding: 10px;
+}
+
+ul li {
+
+  font-family: 'Cabin Sketch', cursive;
+  list-style: none;
+  margin-right: 1em;
+  font-size: 25px;
+  padding: 12px; 
+  display: inline-block;
+  padding-top: 25px;
+
+
+}
+
+li a {
+ color: #544738;
+ text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  text-align: center;
+
+}
+ 
+li a:hover {
+ color: #7eb9be;
+ -webkit-transform: rotate(-10deg) scale(1.2);
+ -moz-transform: rotate(-10deg) scale(1.2);
+ -o-transform: rotate(-10deg) scale(1.2);
+}
+
+.left a:hover {
+ -webkit-transform: rotate(-10deg) scale(1.2);
+ -moz-transform: rotate(-10deg) scale(1.2);
+ -o-transform: rotate(-10deg) scale(1.2);
+}
+ 
+.right a:hover {
+ -webkit-transform: rotate(10deg) scale(1.2);
+ -moz-transform: rotate(10deg) scale(1.2);
+ -o-transform: rotate(10deg) scale(1.2);
+}
