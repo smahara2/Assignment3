@@ -45,6 +45,28 @@ h2{
   margin-bottom: -31px;
 }
 
+
+.speech-bubble-left {
+  position: relative;
+  background: #DC0073;
+  border-radius: .9em;
+
+}
+
+.speech-bubble-left:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border: 31px solid transparent;
+  border-top-color: #DC0073;
+  border-bottom: 0;
+  border-left: 0;
+  margin-left: 420.5px;
+  margin-bottom: -31px;
+}
 body {
   /*font-family: Arial, Helvetica, sans-serif;*/
   font-family: 'Cabin Sketch', cursive;
@@ -59,13 +81,32 @@ body {
 
 nav {
   text-align: center;
-  padding-bottom: 30px;
+  padding-top: 5px;
+  padding-right: -100px;
+ 
+  
+
+}
+
+.menu {
+  padding-bottom: -50px;
+  background: #DC0073;
+  width: 93%;
+  border-radius: .9em;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.21);
 }
 
 /* Container for flexboxes */
 .row {
   display: -webkit-flex;
   display: flex;
+  padding-top: 50px;
+  float: right;
+  align-items: center;
+ 
+
 }
 
 /* Create three equal columns that sits next to each other */
@@ -74,8 +115,10 @@ nav {
   -ms-flex: 1;
   flex: 1;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-/*  max-height: 
+  max-height: 960px
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
 */}
 
 /* Style the footer */
@@ -98,6 +141,7 @@ nav {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
   border-radius: 8px;
+
 }
 
 img {
@@ -106,7 +150,17 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 30px;
+  border-radius: .8em;
 
+}
+
+header h1 {
+  color: #F5B700
+}
+
+header img {
+  border-radius: 8px;
 }
 
 aside {
@@ -114,9 +168,7 @@ aside {
   padding: 10px 20px;
 }
 
-.center {
- 
-}
+aside ul { color: black; }
 
 h1{
   text-align: center;
@@ -136,8 +188,9 @@ ul li {
 
 }
 
-li a {
- color: #544738;
+
+ li a {
+ color: #89FC00;
  text-decoration: none;
   margin-left: auto;
   margin-right: auto;
