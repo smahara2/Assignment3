@@ -29,5 +29,5 @@ All three students are DMS Majors at the University of Rochester.
 
 ## Choreography
 
-I decided to arrange the content of each page in order of date and time they happened so I start with early life, then university and which are timeless.
+Students are arranged in order of class year. Same class years are arranged in alphabetical order
 
