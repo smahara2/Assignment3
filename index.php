@@ -11,7 +11,7 @@
 	<h1>Team Berlin</h1>
 
         <h1>Kate Fuss</h1>
-        <img src = "images/kat.jpg">
+        <img src = "images/kat.jpg" alt="Kat">
         <aside>
             <ul>
             <li>Sophomore</li>
@@ -21,7 +21,7 @@
         </aside>
 
 		<h1>Jennifer Ngene</h1>
-		<img src = "images/jennifer.jpg">
+		<img src = "images/jennifer.jpg" alt = "Jennifer">
 		<aside>
 			<ul>
 				<li>Junior</li>
@@ -32,7 +32,7 @@
 
 
         <h1>Maria Mancheno</h1>
-        <img src = "images/maria.jpg">
+        <img src = "images/maria.jpg" alt="Maria">
         <aside>
             <ul>
             <li>Junior</li>

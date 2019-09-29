@@ -10,7 +10,7 @@
 
 	<header>
 		<h1>Maria Mancheno</h1>
-		<img src = "images/maria.jpg">
+		<img src = "images/maria.jpg" alt ="maria">
 		<aside>
 			<ul>
 				<li>Junior</li>

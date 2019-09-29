@@ -10,7 +10,7 @@
 
 	<header>
 		<h1>Kate Fuss</h1>
-		<img src = "images/kat.jpg">
+		<img src = "images/kat.jpg" alt="kat">
 		<aside>
 			<ul>
 				<li>Sophomore</li>
