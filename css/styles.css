@@ -217,3 +217,9 @@ li a:hover {
  -moz-transform: rotate(10deg) scale(1.2);
  -o-transform: rotate(10deg) scale(1.2);
 }
+
+.active {font-weight: bold;
+         color: #7eb9be;}
+
+body {padding-left: 170px;
+      padding-right: 170px;}
