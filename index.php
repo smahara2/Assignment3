@@ -14,7 +14,7 @@
         <img src = "images/kat.jpg">
         <aside>
             <ul>
-            <li>Junior</li>
+            <li>Sophomore</li>
             <li>DMS Major</li>
             <li>University of Rochester</li>
             </ul>
