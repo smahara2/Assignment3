@@ -10,26 +10,15 @@
 
 	<h1>Team Berlin</h1>
 
-	
-		<h1>Maria Mancheno</h1>
-		<img src = "images/maria.jpg">
-		<aside>
-			<ul>
-				<li>Junior</li>
-				<li>DMS Major</li>
-				<li>University of Rochester</li>
-			</ul>
-		</aside>
-
-		<h1>Kate Fuss</h1>
-		<img src = "images/kat.jpg">
-		<aside>
-			<ul>
-				<li>Junior</li>
-				<li>DMS Major</li>
-				<li>University of Rochester</li>
-			</ul>
-		</aside>
+        <h1>Kate Fuss</h1>
+        <img src = "images/kat.jpg">
+        <aside>
+            <ul>
+            <li>Junior</li>
+            <li>DMS Major</li>
+            <li>University of Rochester</li>
+            </ul>
+        </aside>
 
 		<h1>Jennifer Ngene</h1>
 		<img src = "images/jennifer.jpg">
@@ -40,6 +29,18 @@
 				<li>University of Rochester</li>
 			</ul>
 		</aside>
+
+
+        <h1>Maria Mancheno</h1>
+        <img src = "images/maria.jpg">
+        <aside>
+            <ul>
+            <li>Junior</li>
+            <li>DMS Major</li>
+            <li>University of Rochester</li>
+            </ul>
+        </aside>
+
 
 
 		<script src="js/scripts.js"></script>
