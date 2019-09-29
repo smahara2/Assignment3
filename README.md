@@ -7,55 +7,23 @@ Jennifer A Ngene - http://csc174.org/assignment02/berlin/jennifer.php**
 
 ##                              The Domain   
 
-All three students are Junior DMS Majors at the University of Rochester.
+All three students are DMS Majors at the University of Rochester.
 
 ## 								Ontology     
 
-**Kate Fuss** :
-
-- Kate has an early life and journey to college
-- Kate has a journey to DMS
-- Kate has a  college life
-- Kate has interests
-
-**Maria Mancheno** :
-
-- Maria has an early life and journey to college
-- Maria has a journey to DMS 
-- Maria has a  college life
-- Maria has interests
-
-**Jennifer Ngene** :
-
-- Jennifer has an early life and journey to college
-- Jennifer has a journey to DMS
-- Jennifer has a  college life
-- Maria has interests
+- Each student has an early life and journey to college
+- Each student has a journey to DMS
+- Each student has a  college life
+- Each student has interests
 
 
 
 ## Taxonomy   
 
-**Kate Fuss** :
-
 - Early life and Journey to college
 - Journey to DMS
 - College life
 -  Interests
-
-**Maria Mancheno** :
-
-- Early life and Journey to college
-- Journey to DMS
-- College life
-- Interests
-
-**Jennifer Ngene** :
-
-- Early life and Journey to college
-- Journey to DMS
-- College life
-- Interests
 
 
 
